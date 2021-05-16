@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<company name="Театр Карабаса-Барабаса">
+  <person id="1" name="Карабас-Барабас" position="Хозяин кукольного театра">
+    <person id="2" name="Мальвина" position="Кукла">
+      <person id="3" name="Артемон" position="Пудель" />
+    </person>
+  </person>
+</company>

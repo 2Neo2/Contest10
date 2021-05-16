@@ -1,0 +1,12 @@
+/Users/ivandoronin/Desktop/Contest10/TaskC/bin/Debug/netcoreapp3.1/TaskC.deps.json
+/Users/ivandoronin/Desktop/Contest10/TaskC/bin/Debug/netcoreapp3.1/TaskC.runtimeconfig.json
+/Users/ivandoronin/Desktop/Contest10/TaskC/bin/Debug/netcoreapp3.1/TaskC.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/Contest10/TaskC/bin/Debug/netcoreapp3.1/TaskC.dll
+/Users/ivandoronin/Desktop/Contest10/TaskC/bin/Debug/netcoreapp3.1/TaskC.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.csprojAssemblyReference.cache
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.dll
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskC/obj/Debug/netcoreapp3.1/TaskC.genruntimeconfig.cache

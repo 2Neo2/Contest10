@@ -1,0 +1,12 @@
+/Users/ivandoronin/Desktop/Contest10/TaskH/bin/Debug/netcoreapp3.1/TaskH.deps.json
+/Users/ivandoronin/Desktop/Contest10/TaskH/bin/Debug/netcoreapp3.1/TaskH.runtimeconfig.json
+/Users/ivandoronin/Desktop/Contest10/TaskH/bin/Debug/netcoreapp3.1/TaskH.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/Contest10/TaskH/bin/Debug/netcoreapp3.1/TaskH.dll
+/Users/ivandoronin/Desktop/Contest10/TaskH/bin/Debug/netcoreapp3.1/TaskH.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.csprojAssemblyReference.cache
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.dll
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskH/obj/Debug/netcoreapp3.1/TaskH.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ivandoronin/Desktop/Contest10/TaskE/bin/Debug/netcoreapp3.1/TaskE.deps.json
+/Users/ivandoronin/Desktop/Contest10/TaskE/bin/Debug/netcoreapp3.1/TaskE.runtimeconfig.json
+/Users/ivandoronin/Desktop/Contest10/TaskE/bin/Debug/netcoreapp3.1/TaskE.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/Contest10/TaskE/bin/Debug/netcoreapp3.1/TaskE.dll
+/Users/ivandoronin/Desktop/Contest10/TaskE/bin/Debug/netcoreapp3.1/TaskE.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.csprojAssemblyReference.cache
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.dll
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskE/obj/Debug/netcoreapp3.1/TaskE.genruntimeconfig.cache

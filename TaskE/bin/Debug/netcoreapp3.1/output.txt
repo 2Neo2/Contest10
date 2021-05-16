@@ -1,0 +1,7 @@
+princessfrank> sign in successful
+tomkin> sign in successful
+princessfrank> account blocked due suspicious login attempt
+tomkin> sign out successful
+tomkin> sign in successful
+tixbagstock> incorrect password
+tixbagstock> sign in successful

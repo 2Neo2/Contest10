@@ -1,0 +1,12 @@
+/Users/ivandoronin/Desktop/Contest10/TaskJ/bin/Debug/netcoreapp3.1/TaskJ.deps.json
+/Users/ivandoronin/Desktop/Contest10/TaskJ/bin/Debug/netcoreapp3.1/TaskJ.runtimeconfig.json
+/Users/ivandoronin/Desktop/Contest10/TaskJ/bin/Debug/netcoreapp3.1/TaskJ.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/Contest10/TaskJ/bin/Debug/netcoreapp3.1/TaskJ.dll
+/Users/ivandoronin/Desktop/Contest10/TaskJ/bin/Debug/netcoreapp3.1/TaskJ.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.csprojAssemblyReference.cache
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.dll
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.pdb
+/Users/ivandoronin/Desktop/Contest10/TaskJ/obj/Debug/netcoreapp3.1/TaskJ.genruntimeconfig.cache
